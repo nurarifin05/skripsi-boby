@@ -6,7 +6,7 @@
 const char* ssid = "M2fleet";	//sesuaikan dengan nama jaringan wifi, pastikan besar kecilnya sesuai
 const char* password = "logika9119";	//nama password jaringan wifi
 
-const char* mqtt_server = "202.154.58.25"; //inisialisasi server dari broker MQTT
+const char* mqtt_server = "202.154.56.29"; //inisialisasi server dari broker MQTT
 const char* mqtt_user = "boby";	//username untuk mengakses MQTT
 const char* mqtt_password = "skripsi"; //password untuk mengakses MQTT
 
